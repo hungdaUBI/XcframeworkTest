@@ -18,7 +18,7 @@
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		TREF/llOKCK5WE3KuwcBdrx9YKw=
+		YdQCXZd1oEh1FSVCkVtXtXVBHOY=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SpAAgYm7QvTJjtIsBuf3eeO2DAU=
+		6OtcWDSY1KTD6KPYZcdDTasbAYE=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		SpAAgYm7QvTJjtIsBuf3eeO2DAU=
+		6OtcWDSY1KTD6KPYZcdDTasbAYE=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VbAoxTha2Vu6Ky2371AgWEsp4oY=
+		objGQZRqrl63MQiIccoQU9dP0Uc=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		VbAoxTha2Vu6Ky2371AgWEsp4oY=
+		objGQZRqrl63MQiIccoQU9dP0Uc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KOCDqxUmGUKSiVYHWYVZvgjqUE+E71wrCP0jFe+i3xU=
+			/5AlhP0Ruaf+J+xZ0yfwPbx/Onhodrpbi4FUOhEo5EM=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -114,7 +114,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y2nTPIIN/YahBk4SVpECLBwek8uz6O/tLFlPyDeLu40=
+			z0zOGE76fdLIjvYh322sI9ec4pcjdaVhWooCZjRpT4o=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftdoc</key>
@@ -135,7 +135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y2nTPIIN/YahBk4SVpECLBwek8uz6O/tLFlPyDeLu40=
+			z0zOGE76fdLIjvYh322sI9ec4pcjdaVhWooCZjRpT4o=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -156,7 +156,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fR89fjJHXK5GnvhqVdGcqysyh4FAZfw3V0AILv0915g=
+			03d7kDF/M9z+oqaHgSllKt2X9NR90nGpd+dCgDFA3jA=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -177,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fR89fjJHXK5GnvhqVdGcqysyh4FAZfw3V0AILv0915g=
+			03d7kDF/M9z+oqaHgSllKt2X9NR90nGpd+dCgDFA3jA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
