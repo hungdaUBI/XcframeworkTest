@@ -5,6 +5,10 @@ import Alamofire
 @_exported import MyFramework
 import Swift
 import UIKit
+public struct MemberData {
+}
+public struct MemberManager {
+}
 @objc @_hasMissingDesignatedInitializers public class LoginViewController : UIKit.UIViewController {
   @objc dynamic public init()
   @objc override dynamic public func viewDidLoad()

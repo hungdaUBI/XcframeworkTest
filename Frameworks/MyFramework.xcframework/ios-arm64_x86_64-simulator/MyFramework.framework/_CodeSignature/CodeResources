@@ -18,7 +18,7 @@
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		bQNC+b5DbXsXQox3fl+dIduLJW0=
+		2mPGwvCufoQJtgXgLzVJn6sv7JE=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JZ/TMIboJ0TirZM7rWljK+x4kJU=
+		vaEgl6A5g7K30+L0353imZHP38M=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6X6Tqlt6uSebtxEYuXZXXIGLIT8=
+		WZyqoXUf3V1ZPH//YG/v4tZDIH0=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		JZ/TMIboJ0TirZM7rWljK+x4kJU=
+		vaEgl6A5g7K30+L0353imZHP38M=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		6X6Tqlt6uSebtxEYuXZXXIGLIT8=
+		WZyqoXUf3V1ZPH//YG/v4tZDIH0=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FY/ysgm6az2p/YjWrvek3z5swjU=
+		qSpTgfXbTsQFP9l4Eg7OIRfy570=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		s7UQ7xd6B4GUDP0fVKT9sXrSEcA=
+		puXvzB/tqZnKjRHhPy9sfaGHJoE=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		FY/ysgm6az2p/YjWrvek3z5swjU=
+		qSpTgfXbTsQFP9l4Eg7OIRfy570=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		s7UQ7xd6B4GUDP0fVKT9sXrSEcA=
+		puXvzB/tqZnKjRHhPy9sfaGHJoE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hd8N5fGov9CRmiEUkDRuz4tK0d9cn++FVysnZporKAc=
+			N9VK9phygGPUovI+7zktCSri0GaRmjAj9xJYxHIMbOQ=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -107,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ME+zYv2uexEiz837cFF6EvM1muwuM/sEn/jnr+S0xkY=
+			e8klXsXSVQeyEJ4xiGazHok4qnQaqPeHo4MZUAUB81s=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sjfvfMyrf7LJbFjSq3QSwhCTHW6ARvpoO8Hxtb0OVG4=
+			qNwPnhjKGjJ3yXM/nIk3VUSSSbUQtPyp+cEipQfXMic=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftdoc</key>
@@ -128,14 +128,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ME+zYv2uexEiz837cFF6EvM1muwuM/sEn/jnr+S0xkY=
+			e8klXsXSVQeyEJ4xiGazHok4qnQaqPeHo4MZUAUB81s=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sjfvfMyrf7LJbFjSq3QSwhCTHW6ARvpoO8Hxtb0OVG4=
+			qNwPnhjKGjJ3yXM/nIk3VUSSSbUQtPyp+cEipQfXMic=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -149,14 +149,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			40KIUiQgcLGgZX4xc5OwR402FHsR9gDchN45TCI0Ds0=
+			RNyyrLr+xocBGwKuqkiALQs1geGAfa25XKJVi7Zrlos=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dF1vOYGWn2NnV+5cVftPXCTmhSFlq+lNzjuKldIm9v8=
+			XVexgpQmxy8Fj1yrn9hvVzYfNshO8DOsxSMNcRNLvjI=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -170,14 +170,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			40KIUiQgcLGgZX4xc5OwR402FHsR9gDchN45TCI0Ds0=
+			RNyyrLr+xocBGwKuqkiALQs1geGAfa25XKJVi7Zrlos=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dF1vOYGWn2NnV+5cVftPXCTmhSFlq+lNzjuKldIm9v8=
+			XVexgpQmxy8Fj1yrn9hvVzYfNshO8DOsxSMNcRNLvjI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
